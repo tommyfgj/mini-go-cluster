@@ -1,5 +1,6 @@
 mini-go-cluster
 ==================
+test
 Mini cluster to execute parallel jobs using go lang.
 Jobs can be either:
 1. HTTP/ API requests
